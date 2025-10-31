@@ -20,5 +20,5 @@ A water-conserving irrigation system that only activates a water pump when soil 
 ### Why I built it
 I wanted to learn practical embedded electronics and environmental monitoring. It taught me sensor calibration, OLED graphics, relay control, and power management.
 
-### 📎 Media
-Demo video in `media/`
+### Inspiration
+https://projecthub.arduino.cc/lc_lab/automatic-watering-system-for-my-plants-e4c4b9
